@@ -6,7 +6,8 @@
     },
     "files": [
         "README.md",
-        "level0.md"
+        "level0.md",
+        "punkte.md"
     ],
     "targetVersions": {
         "targetId": "arcade"
