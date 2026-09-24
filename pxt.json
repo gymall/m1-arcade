@@ -1,0 +1,10 @@
+{
+    "name": "m1-arcade",
+    "description": "Tutorials für M1 blockbasierte Programmierung",
+    "dependencies": {
+        "device": "*"
+    },
+    "targetVersions": {
+        "targetId": "arcade"
+    }
+}
