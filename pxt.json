@@ -4,6 +4,10 @@
     "dependencies": {
         "device": "*"
     },
+    "files": [
+        "README.md",
+        "level0.md"
+    ],
     "targetVersions": {
         "targetId": "arcade"
     }
