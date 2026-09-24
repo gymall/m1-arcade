@@ -60,13 +60,11 @@ mySprite = sprites.create(img`
 controller.moveSprite(mySprite)
 mySprite.setStayInScreen(true)
 ```
-
 ## Schritt 5: 📝 Dein Logbuch-Auftrag
 **Herzlichen Glückwunsch, du hast das Bootcamp bestanden!**
 
-Gehe nun zurück ins LMS in die Aufgabe "Das digitale Logbuch". 
+Gehe nun zurück ins LMS in die Aufgabe "Das digitale Logbuch". Lade dort als Erstes einen Screenshot von deinem fertigen Code hoch. Beantworte danach diese drei Fragen in eigenen Sätzen:
 
-1. Mache einen Screenshot von deinem fertigen Code und lade ihn dort hoch.
-2. Beantworte dort diese Frage in 1-2 Sätzen: 
-
-*"Du hast gerade deinen ersten **Algorithmus** programmiert! Ein Algorithmus ist eine genaue Schritt-für-Schritt-Anleitung für den Computer. Schau dir deine Blöcke an: In welcher Reihenfolge führt der Computer deine Befehle aus? (Tipp: Liest er von oben nach unten oder von unten nach oben?)"*
+1. **Der Fachbegriff:** Du hast heute deinen ersten **Algorithmus** gebaut. Überlege oder recherchiere kurz: Womit aus deinem Alltag kann man einen Algorithmus am besten vergleichen? (Tipp: Denk ans Kochen oder an den Aufbau von Möbeln).
+2. **Die Reihenfolge:** Was würde bei deinem Alltags-Beispiel passieren, wenn man die Reihenfolge der Anleitung einfach wild vertauscht?
+3. **Dein Code:** Ein Computer liest Algorithmen streng von oben nach unten. Was würde wohl passieren, wenn du in MakeCode den roten `bewege mySprite`-Block nach ganz oben schiebst, noch *bevor* die Figur überhaupt erstellt wird?
