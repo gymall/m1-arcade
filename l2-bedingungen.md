@@ -39,5 +39,5 @@ Lade als Erstes einen Screenshot hoch, auf dem man sieht, wo du in deinem Spiel 
 
 Beantworte danach diese Aufgaben in eigenen Sätzen:
 
-1. **Der Fachbegriff:** Erkläre in deinen eigenen Worten, was eine **Bedingung** (oder Verzweigung) in einem Programmkreis macht. Warum ist das Wort "Wenn-Dann" dabei so wichtig?
+1. **Der Fachbegriff:** Erkläre in deinen eigenen Worten, was eine **Bedingung** in einem Algorithmus macht. Warum ist das Wort "Wenn-Dann" dabei so wichtig?
 2. **Die Lebenswelt:** Eine Bedingung trifft Entscheidungen. Stelle dir vor, du programmierst einen **Smart-Home-Roboter** für dein Haus. Nenne zwei Beispiele für "Wenn-Dann"-Regeln (Bedingungen), auf die der Roboter im Alltag reagieren muss (z. B. wenn es dunkel wird, oder wenn es anfängt zu regnen).
