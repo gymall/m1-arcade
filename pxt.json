@@ -6,7 +6,7 @@
     },
     "files": [
         "README.md",
-        "level0.md",
+        "l0.md",
         "l2-variablen.md",
         "l2-bedingungen.md",
         "l2-schleifen.md"
