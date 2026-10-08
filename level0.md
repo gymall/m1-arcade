@@ -63,8 +63,11 @@ mySprite.setStayInScreen(true)
 ## Schritt 5: 📝 Dein Logbuch-Auftrag
 **Herzlichen Glückwunsch, du hast das Bootcamp bestanden!**
 
-Gehe nun zurück ins LMS in die Aufgabe "Das digitale Logbuch". Lade dort als Erstes einen Screenshot von deinem fertigen Code hoch. Beantworte danach diese drei Fragen in eigenen Sätzen:
+Gehe nun ins LMS in die Aufgabe "Das digitale Logbuch". Lade dort als Erstes einen Screenshot von deinem fertigen Code hoch.
 
-1. **Der Fachbegriff:** Du hast heute deinen ersten **Algorithmus** gebaut. Überlege oder recherchiere kurz: Womit aus deinem Alltag kann man einen Algorithmus am besten vergleichen? (Tipp: Denk ans Kochen oder an den Aufbau von Möbeln).
-2. **Die Reihenfolge:** Was würde bei deinem Alltags-Beispiel passieren, wenn man die Reihenfolge der Anleitung einfach wild vertauscht?
+Beantworte danach diese drei Fragen in eigenen Sätzen:
+
+1. **Der Fachbegriff:** Du hast heute deinen ersten **Algorithmus** gebaut. Ein Algorithmus ist eine genaue, schrittweise Abfolge von Anweisungen/Befehlen. In deinem Code ist das: *Erstelle Figur -> Mache Figur steuerbar -> Halte Figur im Bildschirm.*
+Womit aus deinem Alltag (z.B. beim Kochen oder beim Aufbau von Möbeln) kann man so einen Algorithmus am besten vergleichen? 
+2. **Die Reihenfolge:** Was würde bei deinem Alltags-Beispiel passieren, wenn man die Reihenfolge der Anleitung einfach vertauscht?
 3. **Dein Code:** Ein Computer liest Algorithmen streng von oben nach unten. Was würde wohl passieren, wenn du in MakeCode den roten `bewege mySprite`-Block nach ganz oben schiebst, noch *bevor* die Figur überhaupt erstellt wird?
