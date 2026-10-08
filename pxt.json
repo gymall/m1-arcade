@@ -7,7 +7,9 @@
     "files": [
         "README.md",
         "level0.md",
-        "punkte.md"
+        "l2-variablen.md",
+        "l2-bedingungen.md",
+        "l2-schleifen.md"
     ],
     "targetVersions": {
         "targetId": "arcade"
