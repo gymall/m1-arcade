@@ -33,7 +33,11 @@ Du weißt jetzt, wie die Blöcke funktionieren. Lösche den `wenn Taste A gedrü
 Baue die Info-Blöcke nun in *dein eigenes* Spiel ein (z. B. wenn sich zwei Sprites berühren). 
 
 ## Schritt 4: 📝 Dein Logbuch-Auftrag
-Gehe nun in dein Logbuch im LMS und bearbeite diese Aufgabe:
+Gehe nun ins LMS in die Aufgabe "Das digitale Logbuch". 
+Lade dort als Erstes einen Screenshot von deinem fertigen Code hoch. 
 
-1. **Dein Code:** Lade einen Screenshot hoch, auf dem man sieht, wo du in deinem eigenen Spiel eine Variable veränderst (z. B. Punkte plus 1 oder Leben minus 1).
-2. **Die Lebenswelt:** Eine Variable ist wie eine beschriftete Kiste, in der sich der Computer Zahlen oder Wörter merkt. Stelle dir vor, du programmierst einen **Online-Shop** (wie Amazon) statt eines Spiels. Nenne zwei Beispiele für solche "Kisten" (Variablen), die der Computer in einem Online-Shop zwingend speichern und verändern muss, wenn ein Kunde etwas einkauft.
+Beantworte danach diese Fragen in eigenen Sätzen:
+
+1. **Der Fachbegriff:** Du hast heute deinen ersten **Algorithmus** gebaut. Ein Algorithmus ist eine genaue, schrittweise Abfolge von Befehlen. Womit aus deinem Alltag (z.B. beim Kochen oder beim Aufbau von Möbeln) kann man so einen Algorithmus am besten vergleichen? 
+2. **Die Reihenfolge:** Was würde bei deinem Alltags-Beispiel passieren, wenn man die Reihenfolge der Anleitung einfach vertauscht?
+3. **Dein Code:** Ein Computer liest Algorithmen streng von oben nach unten. Was würde wohl passieren, wenn du in MakeCode den roten `bewege mySprite`-Block nach ganz oben schiebst, noch *bevor* die Figur überhaupt erstellt wird?
