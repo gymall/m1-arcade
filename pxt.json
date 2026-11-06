@@ -9,7 +9,20 @@
         "l0.md",
         "l2-variablen.md",
         "l2-bedingungen.md",
-        "l2-schleifen.md"
+        "l2-schleifen.md",
+        "l3-tilemap.md",
+        "l3-animation.md",
+        "l3-sounds.md",
+        "l4-verzweigung.md",
+        "l4-zaehlschleife.md",
+        "l4-while.md",
+        "faq-schwerkraft.md",
+        "faq-hintergrund.md",
+        "faq-schiessen.md",
+        "faq-timer.md",
+        "faq-level.md",
+        "faq-leben.md",
+        "faq-highscore.md"
     ],
     "targetVersions": {
         "targetId": "arcade"
